@@ -41,7 +41,7 @@
 <details>
   <summary>:zap: GitHub Stats</summary>
 
-  <img align="left" alt="omar-ogadevs's GitHub Stats" src="https://github-readme-stats.Omar-OgaDevs.vercel.app/api?username=omar-ogadevs&show_icons=true&hide_border=true" />
+  <img align="left" alt="omar-ogadevs's GitHub Stats" src="https://github-readme-stats.omar-ogadevs.vercel.app/api?username=omar-ogadevs&show_icons=true&hide_border=true" />
 
 </details>
 
