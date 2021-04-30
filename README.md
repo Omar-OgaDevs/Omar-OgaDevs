@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/badge/<omar>-<ogadevs>-<orange>)](https://www.ogadevs.ga)
 
-## I'm a Husband, Father, IT Technician, and on a path to becoming a FrontEnd Developer!
+## I'm a Husband, Father, IT Technician, and on a path to becoming a Developer!
 
 - 🔭 I just launched my first website using GCP
 - 🌱 I’m currently learning as much as i can of everything 🤣
